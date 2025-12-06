@@ -25,11 +25,10 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Urvi Maheshwari"
-  pronouns         : # example: "she/her"  
+  pronouns         : "she/her"  
   bio              : "PhD Candidate in Experimental Psychology"
   location         : "San Diego, CA"
   employer         : "UC San Diego"
-  uri              : # URL
   email            : "umaheshwari@ucsd.edu" 
 
   # Academic websites
