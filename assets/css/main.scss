@@ -41,3 +41,29 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+/* Custom pink background and pink accents */
+body {
+  background-color: #ffe6f0; /* light pink */
+}
+
+a {
+  color: #ff3399; /* pink links */
+}
+
+a:hover {
+  color: #ff66b2;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: #ff3399;
+}
+
+.button, .btn {
+  background-color: #ff3399;
+  color: white;
+  border: none;
+}
+
+.button:hover, .btn:hover {
+  background-color: #ff66b2;
+}
