@@ -24,10 +24,10 @@ All animals experience physical reality. We represent space, estimate quantities
 
 My research program is centered around three broad questions: 
 
-    (1) what role does early sensory-perceptual experience play in the construction of abstract concepts? 
+(1) what role does early sensory-perceptual experience play in the construction of abstract concepts? 
   
-    (2) how does language facilitate abstract thought? 
+(2) how does language facilitate abstract thought? 
   
-    (3) what logical processes and sensorimotor procedures are involved in learning? 
+(3) what logical processes and sensorimotor procedures are involved in learning? 
 
 I answer these questions via empirical, in-lab and field studies exploring the development of numerical cognition, spatial concepts, temporal reasoning, modal representations, and counterfactual thought among children and adults across various linguistic, developmental, and cultural contexts.
