@@ -7,17 +7,20 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
-site_theme               : "jekyll-theme-primer"
+title: ""
+baseurl: ""
+url: "https://urvi-maheshwari.github.io"
+locale: "en-US"
+
+# Academic Pages / Minimal Mistakes
+remote_theme: academicpages/academicpages
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-redirect-from
-title                    : ""
-baseurl                  : ""
-url                      : "https://urvi-maheshwari.github.io"
+  - jemoji
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
