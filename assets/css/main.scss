@@ -41,29 +41,30 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
-/* Custom pink background and pink accents */
+/* Custom pink background and black accents */
 body {
-  background-color: #ffe6f0; /* light pink */
+  background-color: #fff0f5; /* lighter pink, lavender blush */
+  color: #000000; /* default text black */
 }
 
 a {
-  color: #ff3399; /* pink links */
+  color: #000000; /* links black */
 }
 
 a:hover {
-  color: #ff66b2;
+  color: #333333; /* slightly darker black on hover */
 }
 
 h1, h2, h3, h4, h5, h6 {
-  color: #ff3399;
+  color: #000000; /* headers black */
 }
 
 .button, .btn {
-  background-color: #ff3399;
-  color: white;
+  background-color: #000000; /* buttons black */
+  color: #ffffff; /* button text white for readability */
   border: none;
 }
 
 .button:hover, .btn:hover {
-  background-color: #ff66b2;
+  background-color: #333333; /* slightly lighter black hover */
 }
