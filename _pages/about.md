@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /
-title: ""
+title: "About Me"
 author_protufile: true
 redirect_from: 
   - /about/
