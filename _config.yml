@@ -16,7 +16,7 @@ title                    : " "
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/assets/urvi_website_mug.jpg"
+  avatar           : "assets/urvi_website_mug.jpg"
   pronouns         : "she/her"  
   bio              : "PhD Candidate in Psychology"
   location         : "San Diego, CA"
