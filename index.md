@@ -1,9 +1,7 @@
 ---
-layout: single
-title: "Redirecting…"
-redirect_from: /
-redirect_to: /about/
+layout: archive
+title: "About Me"
 permalink: /
 ---
 
-If you are not redirected automatically, [click here to go to About Me](/about/).
+{% include_relative about.md %}
