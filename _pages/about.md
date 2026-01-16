@@ -32,4 +32,4 @@ My research program is centered around three broad questions:
 
 I address these questions through empirical case studies on the development of numerical cognition, temporal reasoning, spatial thinking, and modal reasoning in children and adults. I conduct both in-lab and field studies across a range of developmental, linguistic, and cultural contexts.
 
-A list of publications and working papers on these topics is [here](/publications/), and a short version of my CV is [here](/cv/). Get in touch via [email](umaheshwari@ucsd.edu)
+A list of publications and working papers on these topics is [here](/publications/), and a short version of my CV is [here](/cv/). Get in touch via [email](umaheshwari@ucsd.edu).
