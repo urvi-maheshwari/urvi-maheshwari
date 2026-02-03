@@ -14,6 +14,8 @@ author_profile: true
 
 ## Journal Articles
 
+- **Maheshwari, U.**, Sullivan, J., & Barner, D. (in press). Counting without end: A cross-linguistic exploration of infinity beliefs in English and Hindi learners.*Journal of Experimental Child Psychology.*
+  
 - **Maheshwari, U.** & Barner, D. (2026). Back to reality: Children's early temporal reasoning applies to real but not hypothetical events. *Child Development*. [[published]](https://academic.oup.com/chidev/advance-article/doi/10.1093/chidev/aacaf019/8444705#550736743) [[psyarxiv]](https://osf.io/gs3r4_v3/) [[PDF]](/assets/Maheshwari_Barner_2026_Child_Development.pdf)
 
 - **Maheshwari, U.** & Barner, D. (2026). Exact numerical reasoning in blind children and adults. *Cognition, 267*, 106351. [[published]](https://www.sciencedirect.com/science/article/pii/S0010027725002926?dgcid=author) [[psyarxiv]](https://osf.io/preprints/psyarxiv/hq9c3_v1) [[PDF]](/assets/Maheshwari_Barner_2026_Cognition.pdf)
@@ -31,9 +33,7 @@ author_profile: true
 ## Manuscripts Under Review
 
 - **Maheshwari, U.** & Barner, D. (under review). One, Two, Three, Four… What’s More? Successor relations, not mappings to approximate magnitudes, support learning the later-greater principle.
-
-- **Maheshwari, U.**, Sullivan, J., & Barner, D. (under review). Counting without end: A cross-linguistic exploration of infinity beliefs in English and Hindi learners.
-
+  
 - Yu, Y., Boni, I., Cheung, P.,… **Maheshwari, U.**, … & Barner, D. (under review). ManyNumbers 3: A multi-lab study of demographic correlates of early number knowledge.  [[psyarxiv]](https://osf.io/re39y)
 
 - **Maheshwari, U.** & Barner, D. (under review). Cross Linguistic Factors in Early Numerical Development.
