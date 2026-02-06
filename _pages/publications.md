@@ -14,7 +14,7 @@ author_profile: true
 
 ## Journal Articles
 
-- **Maheshwari, U.**, Sullivan, J., & Barner, D. (in press). Counting without end: A cross-linguistic exploration of infinity beliefs in English and Hindi learners. *Journal of Experimental Child Psychology, 106473*,106473. [[published]](https://authors.elsevier.com/a/1mZV-51Y-bK1x) [[PDF]](/assets/Maheshwari_etal_2026_JECP.pdf)
+- **Maheshwari, U.**, Sullivan, J., & Barner, D. (2026). Counting without end: A cross-linguistic exploration of infinity beliefs in English and Hindi learners. *Journal of Experimental Child Psychology, 106473*,106473. [[published]](https://authors.elsevier.com/a/1mZV-51Y-bK1x) [[PDF]](/assets/Maheshwari_etal_2026_JECP.pdf)
   
 - **Maheshwari, U.** & Barner, D. (2026). Back to reality: Children's early temporal reasoning applies to real but not hypothetical events. *Child Development*, pp 1-13. [[published]](https://academic.oup.com/chidev/advance-article/doi/10.1093/chidev/aacaf019/8444705#550736743) [[psyarxiv]](https://osf.io/gs3r4_v3/) [[PDF]](/assets/Maheshwari_Barner_2026_Child_Development.pdf)
 
