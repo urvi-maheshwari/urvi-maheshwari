@@ -24,7 +24,7 @@ author_profile: true
 
 - Yu, Y., Boni, I., Cheung, P.,… **Maheshwari, U.**, … & Barner, D. (under review). ManyNumbers 3: A multi-lab study of demographic correlates of early number knowledge.  [[stage 1 report]](https://osf.io/re39y)
 
-- Abreu-Mendoza, R. A., Barner, D., Boni, I.,… **Maheshwari, U.**, … & Gunderson, E. (stage 1: accepted in-principle). ManyNumbers 1: A multi-lab international study of early number knowledge. *Developmental Science*. [[Stage 1 report]](https://osf.io/hxe3j)
+- Abreu-Mendoza, R. A., Barner, D., Boni, I.,… **Maheshwari, U.**, … & Gunderson, E. (stage 1: accepted in-principle). ManyNumbers 1: A multi-lab international study of early number knowledge. *Developmental Science*. [[stage 1 report]](https://osf.io/hxe3j)
 
 ## Book Chapters and Open Access Resources
 
