@@ -22,9 +22,9 @@ author_profile: true
   
 - **Maheshwari, U.** & Barner, D. (2025). Twice upon a time: Children use syntax to learn the meanings of yesterday and tomorrow. *Developmental Science, 28*(2), e13600. [[published]](https://onlinelibrary.wiley.com/doi/10.1111/desc.13600) [[psyarxiv]](https://osf.io/preprints/osf/hc5vm) [[PDF]](/assets/Maheshwari_Barner_2025_Developmental_Science.pdf)
 
-- Yu, Y., Boni, I., Cheung, P.,… **Maheshwari, U.**, … & Barner, D. (under review). ManyNumbers 3: A multi-lab study of demographic correlates of early number knowledge.  [[stage 1 report]](https://osf.io/re39y)
+- Yu, Y., Boni, I., Cheung, P.,… **Maheshwari, U.**, … & Barner, D. (stage 1 registered report: accepted in-principle). ManyNumbers 3: A multi-lab study of demographic correlates of early number knowledge.  [[stage 1 report]](https://osf.io/re39y)
 
-- Abreu-Mendoza, R. A., Barner, D., Boni, I.,… **Maheshwari, U.**, … & Gunderson, E. (stage 1: accepted in-principle). ManyNumbers 1: A multi-lab international study of early number knowledge. *Developmental Science*. [[stage 1 report]](https://osf.io/hxe3j)
+- Abreu-Mendoza, R. A., Barner, D., Boni, I.,… **Maheshwari, U.**, … & Gunderson, E. (stage 1 registered report: accepted in-principle). ManyNumbers 1: A multi-lab international study of early number knowledge. *Developmental Science*. [[stage 1 report]](https://osf.io/hxe3j)
 
 ## Book Chapters and Open Access Resources
 
