@@ -36,7 +36,7 @@ author_profile: true
 
 - **Maheshwari, U.** & Barner, D. (under review). One, Two, Three, Four… What’s More? Successor relations, not mappings to approximate magnitudes, support learning the later-greater principle.
 
-- **Maheshwari, U.** & Barner, D. (under review). Cross Linguistic Factors in Early Numerical Development.
+- **Maheshwari, U.** & Barner, D. (invited revision). Cross Linguistic Factors in Early Numerical Development.
 
 
 **Note:** Electronic versions of articles are provided to ensure timely dissemination of academic work. These can be downloaded for noncommercial purposes. Copyright resides with the copyright holders listed in each article. Files may not be reposted without permission from copyright holders.
