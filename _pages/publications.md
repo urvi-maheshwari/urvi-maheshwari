@@ -13,6 +13,7 @@ author_profile: true
 </style>
 
 ## Journal Articles
+<sup>a</sup>denotes equal contribution 
 
 - **Maheshwari, U.**, Sullivan, J., & Barner, D. (2026). Counting without end: A cross-linguistic exploration of infinity beliefs in English and Hindi learners. *Journal of Experimental Child Psychology, 266*, 106473. [[published]](https://authors.elsevier.com/a/1mZV-51Y-bK1x) [[PDF]](/assets/Maheshwari_etal_2026_JECP.pdf)
   
@@ -38,7 +39,7 @@ author_profile: true
 
 - **Maheshwari, U.** & Barner, D. (invited revision). Cross Linguistic Factors in Early Numerical Development.
 
-- **Maheshwari, U.**, Boskovic, K., & Barner, D. (under review). The role of analogy in the linguistic encoding of number and space.[[preprint]](https://osf.io/preprints/psyarxiv/ucxra_v1)
+- **Maheshwari, U.**<sup>a</sup>, Boskovic, K.<sup>a</sup>, & Barner, D. (under review). The role of analogy in the linguistic encoding of number and space.[[psyarxiv]](https://osf.io/preprints/psyarxiv/ucxra_v1)
 
 
 **Note:** Electronic versions of articles are provided to ensure timely dissemination of academic work. These can be downloaded for noncommercial purposes. Copyright resides with the copyright holders listed in each article. Files may not be reposted without permission from copyright holders.
