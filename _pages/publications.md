@@ -37,7 +37,7 @@ author_profile: true
 
 - **Maheshwari, U.** & Barner, D. (under review). One, Two, Three, Four… What’s More? Successor relations, not mappings to approximate magnitudes, support learning the later-greater principle.
 
-- **Maheshwari, U.** & Barner, D. (invited revision). Cross Linguistic Factors in Early Numerical Development.
+- **Maheshwari, U.** & Barner, D. (under revised review). Cross Linguistic Factors in Early Numerical Development.
 
 - **Maheshwari, U.**<sup>a</sup>, Boskovic, K.<sup>a</sup>, & Barner, D. (under review). The role of analogy in the linguistic encoding of number and space.[[psyarxiv]](https://osf.io/preprints/psyarxiv/ucxra_v1)
 
