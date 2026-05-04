@@ -13,7 +13,6 @@ author_profile: true
 </style>
 
 ## Journal Articles
-<sup>a</sup>denotes equal contribution 
 
 - **Maheshwari, U.**, Sullivan, J., & Barner, D. (2026). Counting without end: A cross-linguistic exploration of infinity beliefs in English and Hindi learners. *Journal of Experimental Child Psychology, 266*, 106473. [[published]](https://authors.elsevier.com/a/1mZV-51Y-bK1x) [[PDF]](/assets/Maheshwari_etal_2026_JECP.pdf)
   
@@ -29,6 +28,8 @@ author_profile: true
 
 ## Book Chapters and Open Access Resources
 
+- **Maheshwari, U.** & Barner, D. (in press). Cross Linguistic Factors in Early Numerical Development. In D. Purpura. (ed). The Intersection of Language and Mathematics: Theories, Empirical Evidence, and Future Directions. London: Palgrave MacMillan.
+
 - Van Hedger, S. C. & **Maheshwari, U.** (2025). Language and music in the brain: Balancing domain-specific and domain-general mechanisms. In E. Andrews & S. Kiran. (eds). The Cambridge Handbook of Language and Brain. Cambridge: Cambridge University Press. pp. 459 - 498. [[book]](https://www.cambridge.org/in/universitypress/subjects/languages-linguistics/psycholinguistics-and-neurolinguistics/cambridge-handbook-language-and-brain?format=HB&isbn=9781009202282) [[chapter]](https://www.cambridge.org/core/books/cambridge-handbook-of-language-and-brain/music-and-language-in-the-brain/AA6968A85B66FB78E7E883C66C805F82) [[PDF]](/assets/VanHedger_Maheshwari_2025_Cambridge.pdf)
 
 - Campbell, N., Barr, L., Bovin, J.,... **Maheshwari, U.** … & Barrette-Ng, I. (2022). Uncovering the hidden curriculum. eCampusOntario Special Collections. [[website]](https://hiddencurriculum.ca/) [[DSpace]](https://openlibrary-repo.ecampusontario.ca/jspui/handle/123456789/1500) 
@@ -37,11 +38,10 @@ author_profile: true
 
 - **Maheshwari, U.** & Barner, D. (under review). One, Two, Three, Four… What’s More? Successor relations, not mappings to approximate magnitudes, support learning the later-greater principle.
 
-- **Maheshwari, U.** & Barner, D. (under revised review). Cross Linguistic Factors in Early Numerical Development.
-
 - **Maheshwari, U.**<sup>a</sup>, Boskovic, K.<sup>a</sup>, & Barner, D. (under review). The role of analogy in the linguistic encoding of number and space.[[psyarxiv]](https://osf.io/preprints/psyarxiv/ucxra_v1)
 
 - Yu, Y., **Maheshwari, U.**, & Barner, D. (under review). Cross-modal generalization of numerical calibration.
 
+<sup>a</sup>denotes equal contribution
 
 **Note:** Electronic versions of articles are provided to ensure timely dissemination of academic work. These can be downloaded for noncommercial purposes. Copyright resides with the copyright holders listed in each article. Files may not be reposted without permission from copyright holders.
