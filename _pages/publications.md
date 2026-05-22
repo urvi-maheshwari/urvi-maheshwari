@@ -28,13 +28,15 @@ author_profile: true
 
 ## Book Chapters and Open Access Resources
 
-- **Maheshwari, U.** & Barner, D. (in press). Cross Linguistic Factors in Early Numerical Development. In D. Purpura. (ed). The Intersection of Language and Mathematics: Theories, Empirical Evidence, and Future Directions. London: Palgrave MacMillan.
+- **Maheshwari, U.** & Barner, D. (in press). Cross Linguistic Factors in Early Numerical Development. In D. Purpura. (ed). The Intersection of Language and Mathematics: Theories, Empirical Evidence, and Future Directions. London: Palgrave MacMillan. [[psyarxiv]](https://osf.io/preprints/psyarxiv/bjehx_v1)
 
 - Van Hedger, S. C. & **Maheshwari, U.** (2025). Language and music in the brain: Balancing domain-specific and domain-general mechanisms. In E. Andrews & S. Kiran. (eds). The Cambridge Handbook of Language and Brain. Cambridge: Cambridge University Press. pp. 459 - 498. [[book]](https://www.cambridge.org/in/universitypress/subjects/languages-linguistics/psycholinguistics-and-neurolinguistics/cambridge-handbook-language-and-brain?format=HB&isbn=9781009202282) [[chapter]](https://www.cambridge.org/core/books/cambridge-handbook-of-language-and-brain/music-and-language-in-the-brain/AA6968A85B66FB78E7E883C66C805F82) [[PDF]](/assets/VanHedger_Maheshwari_2025_Cambridge.pdf)
 
 - Campbell, N., Barr, L., Bovin, J.,... **Maheshwari, U.** … & Barrette-Ng, I. (2022). Uncovering the hidden curriculum. eCampusOntario Special Collections. [[website]](https://hiddencurriculum.ca/) [[DSpace]](https://openlibrary-repo.ecampusontario.ca/jspui/handle/123456789/1500) 
 
 ## Manuscripts Under Review
+
+- **Maheshwari, U.**, Walker, C.M., & Barner, D. (under review). Two-year-olds reason about multiple mutually exclusive possibilities. [[psyarxiv]](https://osf.io/preprints/psyarxiv/bq3sk_v1)
 
 - **Maheshwari, U.** & Barner, D. (under review). One, Two, Three, Four… What’s More? Successor relations, not mappings to approximate magnitudes, support learning the later-greater principle.
 
