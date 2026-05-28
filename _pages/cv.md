@@ -4,7 +4,7 @@ title: "CV"
 permalink: /cv/
 author_profile: true
 ---
-For a complete CV, please email me at umaheshwari@ucsd.edu.
+For a more detailed CV, please email me at umaheshwari@ucsd.edu.
 
 <style>
 /* Wrapper for desktop iframe */
