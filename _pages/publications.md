@@ -38,7 +38,7 @@ author_profile: true
 
 - **Maheshwari, U.**, Walker, C.M., & Barner, D. (under review). Two-year-olds reason about multiple mutually exclusive possibilities. [[psyarxiv]](https://osf.io/preprints/psyarxiv/bq3sk_v1)
 
-- **Maheshwari, U.** & Barner, D. (invited revision). One, Two, Three, Four… What’s More? Successor relations, not mappings to approximate magnitudes, support learning the later-greater principle.
+- **Maheshwari, U.** & Barner, D. (under review). One, Two, Three, Four… What’s More? Successor relations, not mappings to approximate magnitudes, support learning the later-greater principle.
 
 - **Maheshwari, U.**<sup>a</sup>, Boskovic, K.<sup>a</sup>, & Barner, D. (under review). The role of analogy in the linguistic encoding of number and space. [[psyarxiv]](https://osf.io/preprints/psyarxiv/ucxra_v1)
 
