@@ -44,6 +44,6 @@ author_profile: true
 
 - Yu, Y., **Maheshwari, U.**, & Barner, D. (under review). Cross-modal generalization of numerical calibration.
 
-<sup>a</sup>denotes equal contribution
+<sup>a</sup> equal contribution
 
 **Note:** Electronic versions of articles are provided to ensure timely dissemination of academic work. These can be downloaded for noncommercial purposes. Copyright resides with the copyright holders listed in each article. Files may not be reposted without permission from copyright holders.
