@@ -5,7 +5,6 @@ permalink: /cv/
 author_profile: true
 ---
 <style>
-/* Wrapper for the embedded CV */
 .cv-embed-wrapper {
   width: 100%;
   display: flex;
@@ -13,18 +12,16 @@ author_profile: true
   margin: 1.5rem 0;
 }
 
-/* The iframe itself */
 .cv-embed-wrapper iframe {
   width: 100%;
   max-width: 900px;
-  height: 85vh;           /* scales with viewport instead of a fixed px height */
+  height: 85vh;
   max-height: 1200px;
   border: 1px solid #ccc;
   border-radius: 8px;
-  -webkit-overflow-scrolling: touch;  /* smooth momentum scroll on iOS */
+  -webkit-overflow-scrolling: touch;
 }
 
-/* Fallback download link (shown on all devices, below the embed) */
 .cv-download {
   text-align: center;
   margin: 1rem 0 2rem;
@@ -32,7 +29,7 @@ author_profile: true
 .cv-download a {
   display: inline-block;
   padding: 10px 18px;
-  background: #2a7ae2;
+  background: #000000;
   color: #ffffff;
   border-radius: 6px;
   text-decoration: none;
@@ -40,7 +37,6 @@ author_profile: true
   font-weight: 500;
 }
 
-/* Tighten up spacing on small screens */
 @media (max-width: 768px) {
   .cv-embed-wrapper iframe {
     height: 75vh;
@@ -49,5 +45,19 @@ author_profile: true
 }
 </style>
 
-<!-- Embedded CV (desktop + iPhone) -->
-<div
+<div class="cv-embed-wrapper">
+  <iframe
+    src="https://docs.google.com/document/d/13SmAmiU46pZHb3BbJMQa6AihOLB_16Hz/preview?embedded=true"
+    loading="lazy"
+    allowfullscreen>
+  </iframe>
+</div>
+
+<div class="cv-download">
+  
+    href="https://docs.google.com/document/d/13SmAmiU46pZHb3BbJMQa6AihOLB_16Hz/export?format=pdf"
+    target="_blank"
+    rel="noopener">
+    ⬇️ Download CV (PDF)
+  </a>
+</div>
