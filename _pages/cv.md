@@ -1,12 +1,12 @@
+```markdown
 ---
 layout: single
 title: "CV"
 permalink: /cv/
 author_profile: true
 ---
-```html
+
 <style>
-  /* CV viewer */
   .cv-iframe {
     width: 100%;
     height: 1000px;
@@ -14,7 +14,6 @@ author_profile: true
     display: block;
   }
 
-  /* Mobile download section */
   .cv-mobile {
     display: none;
     text-align: center;
@@ -35,7 +34,7 @@ author_profile: true
     background-color: #333;
   }
 
-  /* Phones */
+  /* Phone */
   @media (max-width: 768px) {
     .cv-iframe {
       display: none;
@@ -47,17 +46,16 @@ author_profile: true
   }
 </style>
 
-<h2>My CV</h2>
+## My CV
 
-<!-- Desktop / tablet: show the CV inside the page -->
+<!-- Desktop / tablet: show CV inside the page -->
 <iframe
   class="cv-iframe"
   src="https://docs.google.com/document/d/13SmAmiU46pZHb3BbJMQa6AihOLB_16Hz/preview"
-  title="CV"
-  frameborder="0">
+  title="CV">
 </iframe>
 
-<!-- Phone: show a download button instead -->
+<!-- Phone: show download button -->
 <div class="cv-mobile">
   <p>View or download my CV:</p>
 
