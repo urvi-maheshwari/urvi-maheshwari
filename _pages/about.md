@@ -39,6 +39,6 @@ My research program is centered around three broad questions:
   
 (3) What logical processes are involved in learning and abstraction? 
 
-I address these questions through empirical case studies in numerical cognition, temporal reasoning, spatial thinking, and modal reasoning in children and adults. I conduct both in-lab and field studies across a range of developmental, linguistic, and cultural contexts.
+I address these questions through empirical case studies in numerical cognition, temporal reasoning, spatial cognition, and logical thought in children and adults. I conduct both in-lab and field studies across a range of developmental, linguistic, and cultural contexts.
 
 A list of publications and working papers on these topics is [here](/publications/), and a short version of my CV is [here](/cv/). Get in touch via [email](mailto:umaheshwari@ucsd.edu) or on [Bluesky](https://bsky.app/profile/urvi.bsky.social).
